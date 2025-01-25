@@ -15,7 +15,7 @@ The material is divided to weekly packages - each class of elementary functions 
 Material was in use in Spring 2024. There are deficiencies and mistakes in both the content and representation.
 
 The material is being updated in Spring 2025. You can access the material also at
-https://www.overleaf.com/read/bqmdpdbjgvnq\#2effff
+https://www.overleaf.com/read/bqmdpdbjgvnq#2effff
 
 Some related visualizations might appear at
 * https://integraali.com/jsxgraph/jsxgraphindex.php
